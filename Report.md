@@ -30,7 +30,7 @@ Experience Replay and Epsilon Greedy policy are implemented as per original Deep
 
 ### Plot of Rewards
 
-![](plot_p1.jpg)
+![](plot_p1.JPG)
 
 ### Ideas for Future Work
 
